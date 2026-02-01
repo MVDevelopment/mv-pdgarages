@@ -8,9 +8,9 @@
 
 ⚠️ Required – the script will NOT work without these
 
-need to have : mv-interact
+need to have : mv-interact : https://github.com/MVDevelopment/mv-interact
 
-for qb-core
+for qb-core : https://github.com/qbcore-framework/qb-core
 
 Used for interaction points and player actions (garage access, vehicle spawn/store).
 
